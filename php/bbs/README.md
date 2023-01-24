@@ -1,5 +1,9 @@
 <h1 align="center">BBS</h1>
 
+![](./images/img.png)
+
+![](./images/comments.png)
+
 ```zsh
 $ git clone https://github.com/ogty/school
 $ cd ./school/php/bbs
